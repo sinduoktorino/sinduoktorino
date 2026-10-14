@@ -36,12 +36,13 @@
   "name": "Nama Kamu",
   "role": "Software Developer & Informatics Student",
   "location": "Indonesia 🇮🇩",
+  "core_languages": ["HTML5", "CSS3", "JavaScript", "PHP", "Python"],
   "focus_areas": [
     "Web Development (HTML, CSS, PHP, JS)",
     "Software Architecture & DFD Design",
     "API Development (GraphQL & REST)"
   ],
   "current_learning": "Advanced System Design, Cloud Native, & Local LLM Integration",
-  "favorite_stack": ["PHP", "JavaScript", "Python", "GraphQL", "Docker"],
+  "favorite_stack": ["HTML", "CSS", "JavaScript", "PHP", "Python", "GraphQL", "Docker"],
   "status": "🟢 Available for collaboration & open-source projects"
 }
