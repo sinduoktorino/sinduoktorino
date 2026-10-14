@@ -1,42 +1,30 @@
-<h1 align="center">Hi 👋, I'm Mohamad Sindu Oktorino</h1>
-<h3 align="center">A passionate developer crafting clean & meaningful software solutions</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Engineer;Computer+Science+Student;Open+Source+Enthusiast" alt="Typing SVG" />
-</p>
+  <!-- Header Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello,%20World!%20👋&fontSize=48&fontColor=fff&animation=twinkling" width="100%" alt="Header Banner" />
 
----
-
-### 💫 About Me
-- 🔭 Currently working on **[Proyek Utama Kamu]**
-- 🌱 Learning **[Teknologi/Bahasa yang Sedang Dipelajari]**
-- 💬 Ask me about **Software Engineering, Web Development, or Python**
-- ⚡ Fun fact **[Fakta Unik Tentang Kamu]**
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,git,github,vscode,linux" alt="Tech Stack" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=rose_pine&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/USERNAME_KAMU">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <!-- Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+Developer;Building+Scalable+Architectures;Open+Source+%26+System+Design" alt="Typing SVG" />
   </a>
-  <a href="mailto:emailkamu@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/USERNAME_KAMU"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:emailkamu@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://portfolio-kamu.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  </p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+```json
+{
+  "name": "MOHAMAD SINDU OKTORINO",
+  "role": "INFORMATIC STUDENT",
+  "focus": ["Backend Systems", "API Architecture", "Data Modeling"],
+  "currently_building": "Scalable web applications & distributed systems",
+  "hobbies": ["Learning", "Open Source", "Clean Code"]
+}
