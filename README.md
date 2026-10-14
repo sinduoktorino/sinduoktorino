@@ -1,39 +1,14 @@
-# 📌 [Nama Kamu]
-
-> *Informatics Student & Developer passionate about creating intuitive digital solutions.*
-
----
-
-### 🌟 Quick Highlights
-
-- 🔭 Currently building: **[Nama Proyek Utama Kamu]**
-- 📚 Currently studying: **System Design & Software Engineering**
-- 💬 Reach out for: **Web Development, Backend Systems, or Open-Source Projects**
-
----
-
-### ⚡ Skills & Tools
-
-| Domain | Stack |
-| :--- | :--- |
-| **Languages** | `Python` `JavaScript` `Java` `C++` |
-| **Frameworks / APIs** | `GraphQL` `REST APIs` `React` `Node.js` |
-| **Tools & Dev Environment** | `Git` `VS Code` `Linux` `Docker` |
-
----
-
-### 📊 GitHub Insights
-
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30,40,50&height=180&section=header&text=Hello,%20World!%20%F0%9F%90%8D&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </p>
 
----
+### 🧑‍💻 `dev.config.json`
 
-<div align="center">
-
-📫 **Connect with me:**  
-[LinkedIn](https://linkedin.com/in/USERNAME_KAMU) • [Email](mailto:emailkamu@example.com) • [Website](https://websitekamu.com)
-
-</div>
+```json
+{
+  "name": "Nama Kamu",
+  "role": "Software Developer & Computer Science Student",
+  "location": "Indonesia 🇮🇩",
+  "passions": ["Software Architecture", "Clean Code", "Automation"],
+  "current_focus": "Building scalable web & backend services"
+}
