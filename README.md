@@ -21,9 +21,6 @@
     <a href="https://github.com/USERNAME_KAMU">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://github.com/USERNAME_KAMU">
-      <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&color=89b4fa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    </a>
   </p>
 
 </div>
