@@ -49,7 +49,7 @@ Building my skills, one line of code at a time.
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://streak-stats.demolab.com?user=sinduoktorino&theme=tokyonight&hide_border=true&border_radius=10"
     alt="GitHub Contribution Streak"
   />
 </div>
