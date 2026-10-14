@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,35,45,60&height=220&section=header&text=Welcome%20to%20My%20Dev%20Space%20✨&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
   <!-- Typing SVG Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=89B4FA&center=true&vCenter=true&width=550&lines=Software+Engineer+%26+Informatics;Python+%26+GraphQL+Developer;Building+Scalable+System+Architectures;Continuous+Learner+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=89B4FA&center=true&vCenter=true&width=550&lines=Software+Engineer+%26+Informatics;Web+%26+Backend+Developer;Building+Scalable+System+Architectures;Continuous+Learner+%26+Tech+Explorer" alt="Typing SVG" />
 
   <p align="center">
     🚀 <i>"Transforming complex ideas into clean, efficient, and scalable code."</i> 🚀
@@ -40,11 +40,11 @@
   "role": "Software Developer & Informatics Student",
   "location": "Indonesia 🇮🇩",
   "focus_areas": [
+    "Web Development (HTML, CSS, PHP, JS)",
     "Software Architecture & DFD Design",
-    "API Development (GraphQL & REST)",
-    "Backend Optimization & Automation"
+    "API Development (GraphQL & REST)"
   ],
   "current_learning": "Advanced System Design, Cloud Native, & Local LLM Integration",
-  "favorite_stack": ["Python", "JavaScript", "GraphQL", "Docker"],
+  "favorite_stack": ["PHP", "JavaScript", "Python", "GraphQL", "Docker"],
   "status": "🟢 Available for collaboration & open-source projects"
 }
