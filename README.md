@@ -45,13 +45,16 @@ Building my skills, one line of code at a time.
 
 ---
 
-## 🔥 Contribution Streak
-
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sinduoktorino&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="GitHub Contribution Streak"
-  />
+
+## 🔥 MY CONTRIBUTION STREAK
+
+<img width="95%" src="https://streak-stats.demolab.com?user=sinduoktorino&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub Contribution Streak" />
+
+<br/>
+
+**Consistency is the key to becoming a better developer.** 💻
+
 </div>
 
 ---
