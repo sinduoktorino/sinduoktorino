@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Sindu 👋
+# Hi, I'm Mohamad Sindu Oktorino👋
 
 ### Informatics Student | Aspiring Software Engineer
 
@@ -48,9 +48,10 @@ Building my skills, one line of code at a time.
 ## 🔥 Contribution Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" />
-
+  <img
+    src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Contribution Streak"
+  />
 </div>
 
 ---
