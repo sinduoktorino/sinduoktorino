@@ -1,16 +1,29 @@
-
 <div align="center">
 
-# Hi, I'm Mohamad Sindu Oktorino👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:123C69,100:00BFFF&text=MOHAMAD%20SINDU%20OKTORINO&fontSize=32&fontColor=FFFFFF&fontAlignY=38&desc=Informatics%20Student%20%7C%20Future%20Software%20Engineer&descSize=15&descAlignY=58&animation=fadeIn" />
 
-### Informatics Student | Aspiring Software Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Java+Developer+in+Progress;Learning+Web+Development;Turning+Ideas+Into+Code" alt="Typing SVG" />
 
-Building my skills, one line of code at a time.
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Java+Developer+in+Progress;Learning+Web+Development;Future+Software+Engineer" alt="Typing SVG" />
+<a href="https://github.com/sinduoktorino">
+  <img src="https://img.shields.io/badge/GitHub-Profile-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-123C69?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sinduoktorino&style=flat-square&color=00BFFF&label=PROFILE+VIEWS" />
 
 </div>
 
+---
+
+<div align="center">
+
+### 「 Code. Learn. Build. Repeat. 」
+
+</div>
 ---
 
 ## 👨‍💻 About Me
