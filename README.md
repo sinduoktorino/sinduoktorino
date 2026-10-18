@@ -96,13 +96,12 @@ public class Sindu {
 
 ---
 
+
 ## 🚀 Projects & Learning Journey
 
 <table>
-<tr>
-<td width="50%" valign="top">
-</td>
-
+  <tr>
+    <td width="50%" valign="top">
 
 ### ☕ Java Development
 
@@ -111,8 +110,8 @@ public class Sindu {
 - Linked lists, stacks, and queues
 - Programming logic exercises
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
 ### 🌐 Web Development
 
@@ -121,10 +120,10 @@ public class Sindu {
 - PHP fundamentals
 - Database integration with MySQL
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🧠 Problem Solving
 
@@ -133,8 +132,8 @@ public class Sindu {
 - Logical thinking
 - Writing cleaner code
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
 ### 🎯 Current Mission
 
@@ -143,8 +142,8 @@ public class Sindu {
 - Strengthen programming fundamentals
 - Grow into a software engineer
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
