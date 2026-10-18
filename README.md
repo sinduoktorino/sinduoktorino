@@ -102,7 +102,7 @@ public class Sindu {
 <tr>
 <td width="50%" valign="top">
 </td>
-</div>
+
 
 ### ☕ Java Development
 
@@ -113,7 +113,7 @@ public class Sindu {
 
 </td>
 <td width="50%" valign="top">
-
+</div>
 ### 🌐 Web Development
 
 - HTML and CSS interfaces
