@@ -17,7 +17,11 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sinduoktorino&style=for-the-badge&color=102A56&label=PROFILE+VIEWS" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sinduoktorino&style=for-the-badge&color=102A56&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 
 <br/><br/>
 
