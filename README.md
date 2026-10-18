@@ -97,10 +97,12 @@ public class Sindu {
 ---
 
 ## 🚀 Projects & Learning Journey
-
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
+</td>
+</div>
 
 ### ☕ Java Development
 
