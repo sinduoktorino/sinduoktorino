@@ -97,7 +97,7 @@ public class Sindu {
 ---
 
 ## 🚀 Projects & Learning Journey
-<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -113,7 +113,7 @@ public class Sindu {
 
 </td>
 <td width="50%" valign="top">
-</div>
+
 ### 🌐 Web Development
 
 - HTML and CSS interfaces
